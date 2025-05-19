@@ -7,8 +7,7 @@ shawnyeo
 kyujin21c
 dongango
 hayeon
-<<<<<<< HEAD
-lsk
-=======
 MulBiNeul
->>>>>>> a2329265cfd238b5a703ba358a4735b760513168
+StaG-Lab
+lsk
+
