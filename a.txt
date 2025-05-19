@@ -7,5 +7,10 @@ shawnyeo
 kyujin21c
 dongango
 hayeon
+<<<<<<< HEAD
 MulBiNeul
 StaG-Lab
+yeoneeejs2
+=======
+yeoneeejs2
+>>>>>>> 5277608bf7fd4b1ca07178ac5ba61f7b543f9bef
